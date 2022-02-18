@@ -7,7 +7,7 @@
     --section-color: #887BB0;
     --font-size-large: 32px;
     --font-size-middle: 24px;
-    --font-size-small: ;
+    --font-size-small: 20px;
 }
 * {
     box-sizing: border-box;
@@ -44,7 +44,7 @@ body {
     margin: 0 auto;
 }
 .section-title {
-    font-size: 20px;
+    font-size: var(--font-size-small);
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -96,7 +96,7 @@ body {
     color: var(--profile-color);
 }
 .profile-title {
-    font-size: 32px;
+    font-size: var(--font-size-large);
     font-weight: 300;
     letter-spacing: 10px;
     line-height: 50px;
