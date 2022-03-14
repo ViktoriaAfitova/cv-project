@@ -180,6 +180,12 @@ body {
 .contacts-item:nth-child(8):before {
     background-image: url("assets/svg/discord.svg");
 }
+.certificate-container {
+    max-width: 300px;
+}
+.certificate {
+    width: 100%;
+}
 .footer-container {
     background-color: var(--dark-bg);
     padding: 20px;
