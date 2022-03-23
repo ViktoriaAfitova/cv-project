@@ -1,2 +1,2 @@
- https://afitovaviktoriya.github.io/cv-project/cv
+https://afitovaviktoriya.github.io/cv-project/cv
 
